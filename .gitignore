@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+process_wav.py
+Gemfile*
+.DS_store
+update_blog.sh
